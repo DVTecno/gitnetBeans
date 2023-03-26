@@ -7,7 +7,7 @@ EN ESTA UNIDAD ABODAREMOS LAS OPERACIONES LOGICAS DE UNA MANERA DISTINA YA QUE E
 COMENZAREMOS
 OPERACIONES LOGICAS
 Las operaciones logicas que mas usaremos son 4 y pueden se combiandas
-
+----------------Conector logico OR ( || ): -------------------
 Operador logico IGUAL ( == ): 
     En Java para comparar dos cosas se utiliza un doble igual, vamos con ejemplos comunes:
         rojo == azul , se traduce como ... el color rojo es igual al azul? obviamente es falso y por lo tanto el resulado de la operacion logica es FALSE;
@@ -56,6 +56,7 @@ System.out.println(" Operador Logico DISTINTO QUE( != ) ");
 System.out.println("7 != 2: " + (7 != 2) );
 System.out.println("9 != '9': " + (9 != '9') );
 System.out.println("\"nombre\" != \"nombre\" : " + ("nombre" != "nombre") );
+----------------Conector logico OR ( || ): -------------------
 
 System.out.println("OPERADORES LOGICOS COMBINADOS (<= Y >=)\n");
  Operador Logico IGUAL QUE( == ) 
